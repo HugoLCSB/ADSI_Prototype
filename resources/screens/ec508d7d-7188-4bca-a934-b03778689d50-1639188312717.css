@@ -1,0 +1,93 @@
+#s-ec508d7d-7188-4bca-a934-b03778689d50 > #backgroundBox {
+  position: absolute;
+}
+
+#s-ec508d7d-7188-4bca-a934-b03778689d50 > #alignmentBox {
+  position: relative;
+}
+
+#s-ec508d7d-7188-4bca-a934-b03778689d50 #shapewrapper-s-Ellipse .paddingLayer {
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+}
+
+#s-ec508d7d-7188-4bca-a934-b03778689d50 #shapewrapper-s-Ellipse .content {
+  text-shadow: none;
+  font-size: 0pt;
+  font-family: 'Arial',Arial;
+}
+
+#s-ec508d7d-7188-4bca-a934-b03778689d50 #shapewrapper-s-Ellipse {
+  position: absolute;
+  filter: none;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+
+#s-ec508d7d-7188-4bca-a934-b03778689d50 #s-Ellipse {
+  width: 324.9999999999999px;
+  height: 91.99999999999989px;
+  min-height: 91.99999999999989px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+
+_:-ms-fullscreen, :root #s-ec508d7d-7188-4bca-a934-b03778689d50 #s-Ellipse {
+  box-shadow: none;
+}
+
+#s-ec508d7d-7188-4bca-a934-b03778689d50 #shapewrapper-s-Ellipse > .backgroundLayer > .colorLayer {
+  background-color: transparent;
+  background-image: linear-gradient(180.0deg, #FE8F8F 0.001%, #F8CFCF 99.99999999999999%);
+}
+
+#s-ec508d7d-7188-4bca-a934-b03778689d50 #shapewrapper-s-Ellipse .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+
+#s-ec508d7d-7188-4bca-a934-b03778689d50 #shapewrapper-s-Ellipse span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 15.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+
+#s-ec508d7d-7188-4bca-a934-b03778689d50 #shapewrapper-s-Ellipse span#rtr-s-Ellipse_0 {
+  color: #333333;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 15.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.devMobile #jim-container .ui-page {
+  overflow: hidden;
+}
+
+.non_jim_mobile #simulation {
+  overflow: hidden;
+}
+
+.web #simulation {
+  overflow: hidden;
+}
+
+#s-ec508d7d-7188-4bca-a934-b03778689d50 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

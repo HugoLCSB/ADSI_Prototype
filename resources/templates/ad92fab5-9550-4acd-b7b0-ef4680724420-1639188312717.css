@@ -1,0 +1,70 @@
+#t-ad92fab5-9550-4acd-b7b0-ef4680724420 > #backgroundBox {
+  background-color: #FFEDD3;
+  position: absolute;
+}
+
+#t-ad92fab5-9550-4acd-b7b0-ef4680724420 > #alignmentBox {
+  position: relative;
+}
+
+#t-ad92fab5-9550-4acd-b7b0-ef4680724420 #t-Rectangle {
+  position: absolute;
+  width: 1280.0px;
+  min-height: 72.99999999999994px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  text-shadow: none;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'Arial',Arial;
+}
+
+_:-ms-fullscreen, :root #t-ad92fab5-9550-4acd-b7b0-ef4680724420 #t-Rectangle {
+  box-shadow: none;
+}
+
+#t-ad92fab5-9550-4acd-b7b0-ef4680724420 #t-Rectangle > .backgroundLayer > .colorLayer {
+  background-color: #FF5C58;
+}
+
+#t-ad92fab5-9550-4acd-b7b0-ef4680724420 #t-Rectangle .paddingLayer:first-child {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+
+#t-ad92fab5-9550-4acd-b7b0-ef4680724420 #t-Rectangle .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+
+#t-ad92fab5-9550-4acd-b7b0-ef4680724420 #t-Rectangle span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+
+#t-ad92fab5-9550-4acd-b7b0-ef4680724420 #t-Rectangle span#rtr-t-Rectangle_0 {
+  color: #333333;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+
+#t-ad92fab5-9550-4acd-b7b0-ef4680724420 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

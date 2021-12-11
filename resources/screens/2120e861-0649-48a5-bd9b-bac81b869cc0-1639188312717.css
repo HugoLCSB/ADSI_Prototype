@@ -1,0 +1,116 @@
+#s-2120e861-0649-48a5-bd9b-bac81b869cc0 > #backgroundBox {
+  position: absolute;
+}
+
+#s-2120e861-0649-48a5-bd9b-bac81b869cc0 > #alignmentBox {
+  position: relative;
+}
+
+#s-2120e861-0649-48a5-bd9b-bac81b869cc0 #s-Button {
+  position: absolute;
+  width: 297.0px;
+  min-height: 108.00000000000034px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  text-shadow: none;
+  cursor: pointer;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'Arial',Arial;
+}
+
+_:-ms-fullscreen, :root #s-2120e861-0649-48a5-bd9b-bac81b869cc0 #s-Button {
+  box-shadow: none;
+}
+
+#s-2120e861-0649-48a5-bd9b-bac81b869cc0 #s-Button > .backgroundLayer {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#s-2120e861-0649-48a5-bd9b-bac81b869cc0 #s-Button > .backgroundLayer > .colorLayer {
+  background-color: transparent;
+  background-image: linear-gradient(180.0deg, #F87F7F 0.001%, #FFD2D2 99.99999999999999%);
+}
+
+#s-2120e861-0649-48a5-bd9b-bac81b869cc0 #s-Button > .borderLayer {
+  border-top-width: 1.0px;
+  border-top-style: solid;
+  border-top-color: #CDCDCD;
+  border-right-width: 1.0px;
+  border-right-style: solid;
+  border-right-color: #CDCDCD;
+  border-bottom-width: 1.0px;
+  border-bottom-style: solid;
+  border-bottom-color: #CDCDCD;
+  border-left-width: 1.0px;
+  border-left-style: solid;
+  border-left-color: #CDCDCD;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#s-2120e861-0649-48a5-bd9b-bac81b869cc0 #s-Button > .backgroundLayer {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#s-2120e861-0649-48a5-bd9b-bac81b869cc0 #s-Button .paddingLayer:first-child {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+
+#s-2120e861-0649-48a5-bd9b-bac81b869cc0 #s-Button .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+
+#s-2120e861-0649-48a5-bd9b-bac81b869cc0 #s-Button span {
+  color: #030303;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 16.5pt;
+  font-style: normal;
+  font-weight: 400;
+}
+
+#s-2120e861-0649-48a5-bd9b-bac81b869cc0 #s-Button span#rtr-s-Button_0 {
+  color: #030303;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 16.5pt;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.devMobile #jim-container .ui-page {
+  overflow: hidden;
+}
+
+.non_jim_mobile #simulation {
+  overflow: hidden;
+}
+
+.web #simulation {
+  overflow: hidden;
+}
+
+#s-2120e861-0649-48a5-bd9b-bac81b869cc0 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
